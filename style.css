@@ -1,0 +1,81 @@
+.navbar{
+    background-color:white;
+    display:flex;
+    position:sticky;
+    top="0";
+    
+}
+.navigation{
+    background-color: teal;
+    margin-top: 10px;
+    margin-left:400px;
+    width: 300px;
+    padding-right: 50px;
+    
+}
+
+.main{
+    margin-top: 50px;
+}
+.liste{
+    background-color: tomato;
+    display:flex;
+    justify-content: space-between;
+    margin-right: 0px;
+}
+ul li{
+    list-style: none;
+}
+
+.logo{
+    background-color: yellow;
+    margin-right: 300px;
+    margin-bottom: 30px;
+}
+
+.logointro{
+    width: 40px;
+    height: 40px;
+    margin-left:600px;
+
+}
+.h1{
+    background-color: violet;
+    margin-left: 400px;
+    margin-top: 30px;
+}
+.para{
+    background-color: red;
+    display: flex;
+}
+.para1{
+    padding-left: 180px;
+    padding-right: 180px;
+    
+}
+
+.para2{
+    padding-left: 150px;
+    padding-right: 150px;
+
+}
+
+.patanddoc{
+    display: flex;
+    justify-content: space-between;
+    background-color: cyan;
+}
+.patient{
+    background-color: darkblue;
+}.doctor{
+    background-color: darkmagenta;
+}
+
+.imgleft{
+    justify-content: flex-end;
+}
+
+.imgright{
+
+
+}
